@@ -224,7 +224,7 @@ export default function LandingPage() {
 					<div className="grid lg:grid-cols-3 gap-8">
 						<div className="lg:col-span-1">
 							<h2 className="text-2xl sm:text-3xl font-bold text-slate-900">Contact Us</h2>
-							<p className="mt-3 text-slate-600">We'd love to hear from you.</p>
+							<p className="mt-3 text-slate-600">We&rsquo;d love to hear from you.</p>
 						</div>
 						<div className="lg:col-span-2">
 							<div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
